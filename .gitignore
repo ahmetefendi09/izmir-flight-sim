@@ -1,0 +1,12 @@
+# Raw GIS/OSM/DEM cache (344 MB)
+osm_cache/
+
+# Compiled binary & build artifacts
+izmir_flight_sim
+*.o
+*.out
+
+# Python cache & venv
+__pycache__/
+*.pyc
+.venv/
